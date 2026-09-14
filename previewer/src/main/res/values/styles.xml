@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#0f766e</item>
+    </style>
+    <style name="PreviewTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/PreviewWindowAnimation</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#0f766e</item>
+    </style>
+    <style name="PreviewWindowAnimation" parent="">
+        <item name="android:windowEnterAnimation">@anim/scale_in_activity</item>
+        <item name="android:windowExitAnimation">@anim/scale_out_activity</item>
+    </style>
+</resources>

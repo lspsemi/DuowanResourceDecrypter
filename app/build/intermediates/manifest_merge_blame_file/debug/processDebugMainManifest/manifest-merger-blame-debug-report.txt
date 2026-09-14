@@ -1,0 +1,43 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.dwdecryptor"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="35" />
+10
+11    <application
+11-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:2:5-16:19
+12        android:allowBackup="false"
+12-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:3:9-36
+13        android:debuggable="true"
+14        android:extractNativeLibs="true"
+14-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:4:9-41
+15        android:label="DW Decryptor"
+15-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:6:9-37
+16        android:largeHeap="true"
+16-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:5:9-33
+17        android:theme="@style/AppTheme" >
+17-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:7:9-40
+18        <activity
+18-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:8:9-15:20
+19            android:name="com.example.dwdecryptor.MainActivity"
+19-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:9:13-41
+20            android:exported="true" >
+20-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:10:13-36
+21            <intent-filter>
+21-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:11:13-14:29
+22                <action android:name="android.intent.action.MAIN" />
+22-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:12:17-69
+22-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:12:25-66
+23
+24                <category android:name="android.intent.category.LAUNCHER" />
+24-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:13:17-77
+24-->H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\AndroidManifest.xml:13:27-74
+25            </intent-filter>
+26        </activity>
+27    </application>
+28
+29</manifest>

@@ -1,0 +1,7 @@
+com.example.dwpreviewer-pngs-0 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\build\generated\res\pngs\debug
+com.example.dwpreviewer-resValues-1 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\build\generated\res\resValues\debug
+com.example.dwpreviewer-packageDebugResources-2 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.dwpreviewer-packageDebugResources-3 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.dwpreviewer-debug-4 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\build\intermediates\merged_res\debug\mergeDebugResources
+com.example.dwpreviewer-debug-5 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\src\debug\res
+com.example.dwpreviewer-main-6 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\previewer\src\main\res

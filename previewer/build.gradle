@@ -1,0 +1,20 @@
+plugins {
+    id "com.android.application"
+}
+
+android {
+    namespace "com.example.dwpreviewer"
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.example.dwpreviewer"
+        minSdk 21
+        targetSdk 35
+        versionCode 1
+        versionName "1.0"
+
+        ndk {
+            abiFilters "armeabi-v7a"
+        }
+    }
+}

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DW Skin Previewer</string>
+    <string name="background_transparency">Background transparency: %1$d%%</string>
+    <string name="close">x</string>
+    <string name="current_folder">Current folder: %1$s</string>
+    <string name="current_folder_root">Selected folder</string>
+    <string name="error_bad_blur">Bad .blur header length</string>
+    <string name="error_bad_header">Bad encrypted header length</string>
+    <string name="error_bad_texture">Cannot decode texture image</string>
+    <string name="error_decrypt_blur">Cannot decrypt .blur header</string>
+    <string name="error_decrypt_body">Cannot decrypt file body</string>
+    <string name="error_decrypt_header">Cannot decrypt file header</string>
+    <string name="error_decrypt_json">Cannot decrypt skin json</string>
+    <string name="error_no_geometry">No geometry with bones found</string>
+    <string name="error_no_skin_file">No skin file selected</string>
+    <string name="error_no_texture">No texture image found in skin package</string>
+    <string name="error_open_input">Cannot open input</string>
+    <string name="file_name_copied">File name copied</string>
+    <string name="folder_entry">[Folder] %1$s</string>
+    <string name="folder_load_failed">Folder load failed: %1$s</string>
+    <string name="folder_preview_navigation">Previous/next in folder preview</string>
+    <string name="hide_background_controls">Hide background controls in preview</string>
+    <string name="hide_settings">Hide Settings</string>
+    <string name="language_en_short">EN</string>
+    <string name="language_name">English</string>
+    <string name="language_toggle">中文</string>
+    <string name="language_zh_short">中</string>
+    <string name="main_hint">Select an encrypted or plain 4D skin zip, or a normal Minecraft skin PNG.</string>
+    <string name="main_title">DW Skin Previewer</string>
+    <string name="model_alex">Alex</string>
+    <string name="model_steve">Steve</string>
+    <string name="nav_back">Back</string>
+    <string name="nav_forward">Forward</string>
+    <string name="next_skin">›</string>
+    <string name="no_folder_selected">No folder selected</string>
+    <string name="preview_failed">Preview failed</string>
+    <string name="previous_skin">‹</string>
+    <string name="select_folder">Select Folder</string>
+    <string name="select_skin">Select Skin</string>
+    <string name="show_file_name">Show file name in preview</string>
+    <string name="show_settings">Show Settings</string>
+    <string name="skin_entry">[Skin] %1$s</string>
+    <string name="status_encrypted">Encrypted</string>
+    <string name="status_encrypted_4d">Encrypted 4D skin</string>
+    <string name="status_encrypted_standard">Encrypted normal skin</string>
+    <string name="status_international_4d">International toolbox 4D skin</string>
+    <string name="status_plain">Plain</string>
+    <string name="status_plain_4d">Plain 4D skin</string>
+    <string name="status_plain_standard">Plain normal skin</string>
+    <style name="AppTheme" parent="@android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#0f766e</item>
+    </style>
+    <style name="PreviewTheme" parent="@android:style/Theme.Translucent.NoTitleBar">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowAnimationStyle">@style/PreviewWindowAnimation</item>
+        <item name="android:backgroundDimEnabled">false</item>
+        <item name="android:fontFamily">sans</item>
+        <item name="android:colorAccent">#0f766e</item>
+    </style>
+    <style name="PreviewWindowAnimation" parent="">
+        <item name="android:windowEnterAnimation">@anim/scale_in_activity</item>
+        <item name="android:windowExitAnimation">@anim/scale_out_activity</item>
+    </style>
+</resources>
