@@ -3,7 +3,7 @@
         android:allowBackup="false"
         android:extractNativeLibs="true"
         android:largeHeap="true"
-        android:label="DW Decryptor"
+        android:label="多玩资源解密器"
         android:theme="@style/AppTheme">
         <activity
             android:name=".MainActivity"

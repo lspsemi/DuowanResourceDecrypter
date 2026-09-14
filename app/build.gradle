@@ -17,6 +17,12 @@ android {
             abiFilters "armeabi-v7a"
         }
     }
+
+    applicationVariants.all { variant ->
+        variant.outputs.all {
+            outputFileName = "多玩资源解密器-${variant.name}-v${variant.versionName}.apk"
+        }
+    }
 }
 
 dependencies {

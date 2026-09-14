@@ -1,7 +1,0 @@
-com.example.dwdecryptor.app-pngs-0 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\build\generated\res\pngs\debug
-com.example.dwdecryptor.app-resValues-1 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\build\generated\res\resValues\debug
-com.example.dwdecryptor.app-packageDebugResources-2 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.example.dwdecryptor.app-packageDebugResources-3 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.example.dwdecryptor.app-debug-4 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\build\intermediates\merged_res\debug\mergeDebugResources
-com.example.dwdecryptor.app-debug-5 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\debug\res
-com.example.dwdecryptor.app-main-6 H:\多玩我的世界盒子分析文件夹\dw-decryptor-android_Project\app\src\main\res

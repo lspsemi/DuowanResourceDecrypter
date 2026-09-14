@@ -1,0 +1,7 @@
+apk-output/
+*.apk
+.gradle/
+build/
+*/build/
+local.properties
+.idea/
